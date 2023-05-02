@@ -10,7 +10,7 @@ namespace LogicalPrograms
     {
         static void Main(string[] args)
         {
-            PerfectNumber.PerfectNo();     //call the PerfectNo method
+            PrimeNumber.PrimeNo();     //call the PrimeNo method
             Console .ReadKey();
         }
     }
