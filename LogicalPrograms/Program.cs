@@ -10,7 +10,7 @@ namespace LogicalPrograms
     {
         static void Main(string[] args)
         {
-            FibonacciSeries.Fibonacci();     //call the Fibonacci method
+            PerfectNumber.PerfectNo();     //call the PerfectNo method
             Console .ReadKey();
         }
     }
