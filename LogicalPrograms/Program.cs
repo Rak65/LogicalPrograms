@@ -10,7 +10,7 @@ namespace LogicalPrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Logical problems are in this Repository");
+            FibonacciSeries.Fibonacci();     //call the Fibonacci method
             Console .ReadKey();
         }
     }
