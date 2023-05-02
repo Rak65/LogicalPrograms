@@ -1,0 +1,8 @@
+H:\C# Project\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.exe.config
+H:\C# Project\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.exe
+H:\C# Project\LogicalPrograms\LogicalPrograms\bin\Debug\LogicalPrograms.pdb
+H:\C# Project\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.AssemblyReference.cache
+H:\C# Project\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.SuggestedBindingRedirects.cache
+H:\C# Project\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.csproj.CoreCompileInputs.cache
+H:\C# Project\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.exe
+H:\C# Project\LogicalPrograms\LogicalPrograms\obj\Debug\LogicalPrograms.pdb
